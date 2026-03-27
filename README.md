@@ -1,8 +1,6 @@
 # Twitter Emotion Topic Modelling with BERTopic
 
 **ICT202 Machine Learning | Assignment 2**
-**Murdoch University Dubai**
-**Parth Kotak | 35562858**
 
 ## What This Project Does
 
